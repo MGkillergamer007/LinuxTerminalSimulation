@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "ask_names.c"
-#include "terminal_proccess.c"
+#include "include/ask_names.h"
+#include "include/terminal_proccess.h"
 
 
 int main(){

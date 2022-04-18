@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "../../include/neofetch.h"
 
 void neofetch(char username[], char hostname[], char os[], char de[], char kernel[], int max_ram) {
   printf("\n----------------------------\n");
