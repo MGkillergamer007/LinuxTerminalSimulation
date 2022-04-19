@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include "include/terminal_proccess.h"
-#include "commands/neofetch/neofetch.c"
+#include "include/neofetch.h"
 
 void terminal(char username[], char hostname[], char os[], char de[], char kernel[], int max_ram){
   bool terminal_proccess_running = true;

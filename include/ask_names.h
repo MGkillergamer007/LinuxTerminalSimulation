@@ -1,6 +1,4 @@
-#ifndef ASK_NAMES_H
+#pragma once
 #define ASK_NAMES_H
 
 void ask_names(char username[25], char hostname[15]);
-
-#endif
